@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "CodeAlpha App Tasks",
+    "slug": "codealpha-app-development-tasks",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F7F8FC"
+    },
+    "android": {
+      "package": "com.codealpha.appdevelopmenttasks"
+    },
+    "ios": {
+      "bundleIdentifier": "com.codealpha.appdevelopmenttasks"
+    }
+  }
+}
